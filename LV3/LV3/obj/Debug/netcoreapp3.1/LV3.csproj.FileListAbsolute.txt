@@ -1,0 +1,13 @@
+C:\Users\Domagoj\source\repos\LV3\LV3\bin\Debug\netcoreapp3.1\LV3.exe
+C:\Users\Domagoj\source\repos\LV3\LV3\bin\Debug\netcoreapp3.1\LV3.deps.json
+C:\Users\Domagoj\source\repos\LV3\LV3\bin\Debug\netcoreapp3.1\LV3.runtimeconfig.json
+C:\Users\Domagoj\source\repos\LV3\LV3\bin\Debug\netcoreapp3.1\LV3.runtimeconfig.dev.json
+C:\Users\Domagoj\source\repos\LV3\LV3\bin\Debug\netcoreapp3.1\LV3.dll
+C:\Users\Domagoj\source\repos\LV3\LV3\bin\Debug\netcoreapp3.1\LV3.pdb
+C:\Users\Domagoj\source\repos\LV3\LV3\obj\Debug\netcoreapp3.1\LV3.csprojAssemblyReference.cache
+C:\Users\Domagoj\source\repos\LV3\LV3\obj\Debug\netcoreapp3.1\LV3.csproj.CoreCompileInputs.cache
+C:\Users\Domagoj\source\repos\LV3\LV3\obj\Debug\netcoreapp3.1\LV3.AssemblyInfoInputs.cache
+C:\Users\Domagoj\source\repos\LV3\LV3\obj\Debug\netcoreapp3.1\LV3.AssemblyInfo.cs
+C:\Users\Domagoj\source\repos\LV3\LV3\obj\Debug\netcoreapp3.1\LV3.dll
+C:\Users\Domagoj\source\repos\LV3\LV3\obj\Debug\netcoreapp3.1\LV3.pdb
+C:\Users\Domagoj\source\repos\LV3\LV3\obj\Debug\netcoreapp3.1\LV3.genruntimeconfig.cache
