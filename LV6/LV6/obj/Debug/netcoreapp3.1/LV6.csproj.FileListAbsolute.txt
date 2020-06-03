@@ -1,0 +1,4 @@
+C:\Users\Domagoj\source\repos\LV6\LV6\obj\Debug\netcoreapp3.1\LV6.csprojAssemblyReference.cache
+C:\Users\Domagoj\source\repos\LV6\LV6\obj\Debug\netcoreapp3.1\LV6.csproj.CoreCompileInputs.cache
+C:\Users\Domagoj\source\repos\LV6\LV6\obj\Debug\netcoreapp3.1\LV6.AssemblyInfoInputs.cache
+C:\Users\Domagoj\source\repos\LV6\LV6\obj\Debug\netcoreapp3.1\LV6.AssemblyInfo.cs
